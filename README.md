@@ -1,1 +1,1 @@
-# esm244_w2021_lab6_rasters
+# ESM 244 Self-guided raster lab
